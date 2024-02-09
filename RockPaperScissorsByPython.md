@@ -8,4 +8,7 @@ The Rock-Paper-Scissors game is a hand game usually played between two people, w
 
 Features:
 
-Interactive command-line interface.Randomized computer choice.Simple logic for determining the winner.Option to play multiple rounds.
+Interactive command-line interface.
+Randomized computer choice.
+Simple logic for determining the winner.
+Option to play multiple rounds.
